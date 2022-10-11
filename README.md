@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stefany-Campanhoni&layout=compact&langs_count=7&theme=dracula"/>
 </div> 
 
-<div style="display: inline_block;">
+<div style="display: inline_block;"> <br>
   <img align="center" alt="HTML5 Icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
   <img align="center" alt="CSS3 Icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
   <img align="center" alt="JS Icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
