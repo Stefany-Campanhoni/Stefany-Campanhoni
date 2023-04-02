@@ -10,10 +10,10 @@
  	<img align="center" alt="HTML5 Icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
   	<img align="center" alt="CSS3 Icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
   	<img align="center" alt="JS Icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
-  	<img align="center" alt="TS Icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
+  	<img align="center" alt="TS Icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+	<img align="center" alt="Angular Icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   	<img align="center" alt="Java Icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   	<img align="center" alt="Spring Icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-  	<img align="center" alt="Angular Icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">
 </div>
 
 ##
