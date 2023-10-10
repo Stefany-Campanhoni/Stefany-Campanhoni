@@ -21,6 +21,3 @@
 <div align="center"> 
   <a href = "mailto:scampanhoni@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23933?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-<div align="center">
-	<img src="https://github.com/Stefany-Campanhoni/Stefany-Campanhoni/blob/output/github-contribution-grid-snake.svg"/>
-</div>
