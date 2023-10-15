@@ -1,4 +1,4 @@
-## Hii I'm Stefany :transgender_flag:, a programming student!!
+## Hii I'm Stefany :transgender_flag:, a 18 years old programmer!!
 <div align="center">
   	<a href="https://github.com/Stefany-Campanhoni">
   		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Stefany-Campanhoni&show_icons=true&theme=omni&include_all_commits=true&count_private=true" />
