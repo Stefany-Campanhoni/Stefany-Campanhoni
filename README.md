@@ -1,9 +1,7 @@
 ## Hii I'm Stefany :transgender_flag:, a 18 years old programmer!!
-<div align="center">
-  	<a href="https://github.com/Stefany-Campanhoni">
-  		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Stefany-Campanhoni&show_icons=true&theme=omni&include_all_commits=true&count_private=true" />
-	</a>
-<!--   	<img height="180em"  alt="Stefany Icon" src="https://media.discordapp.net/attachments/909181825656684594/1029459384838926356/rounded-in-photoretrica.png?width=195&height=195"> -->
+<div align="center" >
+	<img height="180em" src="https://github-readme-stats-seven-black-65.vercel.app//api?username=Stefany-Campanhoni&show_icons=true&theme=catppuccin_pink&include_all_commits=true&count_private=true" />
+	<img height="180em" src="https://github-readme-stats-seven-black-65.vercel.app/api/top-langs/?username=Stefany-Campanhoni&hide_progress=true&theme=catppuccin_pink&hide=css,html&size_weight=0.5&count_weight=0.5" />
 </div> 
 
 <div align="center">
