@@ -7,10 +7,10 @@
 <div align="center">
   	<img align="center" alt="JS Icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
   	<img align="center" alt="TS Icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
-  	<img align="center" alt="Angular Icon" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg">
 	<img align="center" alt="React Icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   	<img align="center" alt="Java Icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   	<img align="center" alt="Spring Icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+	<img align="center" alt="Python Icon" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   	<img align="center" alt="Rust Icon" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg">	
 </div>
 
